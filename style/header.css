@@ -1,0 +1,17 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+}
+
+.container__menu{
+    font-family: var();
+}
+
+.container__imagem{
+    padding: 0 0 0 2em;
+}
+
+.container__menu-item{
+    display: flex;
+    align-items: center;
+}
