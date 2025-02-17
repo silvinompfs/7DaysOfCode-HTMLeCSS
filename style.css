@@ -1,11 +1,14 @@
-@import url("styles/header.css");
+@import url("./style/header.css");
+@import url("./style/cabecalho.css");
+@import url("./style/metrica.css");
+@import url("./style/vagas.css");
+
 
 :root {
-    --cor-de-fundo: #ffffff;
+    --branco: #ffffff;
     --fonte-principal: "Inter";
-}
-
-body {
-    background-color: var(--cor-de-fundo);
-    font-family: var(--fonte-principal);
+    --cinza: #667085;
+    --vermelho: #8E2424;
+    --escuro: #101828;
+    --redclaro: #8e242428;
 }

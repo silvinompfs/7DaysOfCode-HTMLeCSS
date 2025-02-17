@@ -1,0 +1,27 @@
+.container__metrica {
+    display: flex;
+    font-family: var(--fonte-principal);
+    padding: 1em 5em;
+}
+
+.container__metrica-numeros{
+    color: var(--vermelho);
+    font-weight: 600;
+    font-size: 60px;
+    padding: 0 0.5em 0.25em;
+}
+
+.container__metrica-titulos{
+    color: var(--escuro);
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0 1.5em 1em;
+    
+}
+
+.container__metrica-paragrafo{
+    color: var(--cinza);
+    font-weight: 400;
+    font-size: 16px;
+    padding: 0 1.5em; 
+}

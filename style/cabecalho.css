@@ -1,0 +1,26 @@
+.container_primeiro {
+    text-align: center;
+    align-items: center;
+    font-family: var(--fonte-principal);
+    padding: 5em 15em;
+}
+
+.container_primeiro_sobre{
+    color: var(--vermelho);
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.container_primeiro_titulo {
+    color: var(--escuro);
+    font-weight: 600;
+    font-size: 48px;
+    padding: 3%;
+}
+
+.container_primeiro_paragrafo {
+    color: var(--cinza);
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0% ;
+}
