@@ -1,0 +1,38 @@
+.container__depoimentos {
+    
+    font-family: var(--fonte-principal);
+}
+
+.container__depoimentos {
+    background-color: var(--fundo); /* Cor de fundo */
+    border-radius: 20px; /* Borda arredondada */
+    line-height: 30px;
+    width: 20rem;
+    padding: 0 0 0 20rem;
+}
+
+
+.container__depoimentos-titulo{
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+.container__depoimentos-subtitulo {
+    color: var(--escuro);
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.container__depoimentos-nome {
+    color: var(--escuro);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.container__depoimentos-cargo {
+    color: var(--cinza);
+    font-size: 14px;
+    font-weight: 400;
+}

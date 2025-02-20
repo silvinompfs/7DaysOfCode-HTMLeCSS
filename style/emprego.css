@@ -1,0 +1,46 @@
+.container__empregos {
+    
+    font-family: var(--fonte-principal);
+}
+
+.container__empregos-design{
+    padding: 1rem 0 0 35rem;
+}
+
+.container__empregos-titulo-principal{
+    color: var(--escuro);
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 0 1em 0;
+    
+}
+
+.container__empregos-design-box {
+    padding: 1.5rem 0 2em 0;
+    border: solid var(--borda);
+    border-radius: 1em;
+    border-width: 2px;
+    width: 900px;  /* Define um tamanho fixo */
+    overflow: hidden; /* Garante que o conteúdo extra não transborde */
+    max-width: 90%; /* Limita o tamanho máximo */
+    margin-bottom: 1.5rem; /* Espaçamento entre as divs */
+    
+}
+
+.container__empregos-titulo-secundario{
+    padding: 0 0 1.5em 1em;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.container__empregos-paragrafo{
+    display: inline-block;
+    padding: 0 0 1.5em 1.1em;
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--cinza);
+}
+
+.container__empregos-desenvolvimento{
+    padding: 5rem 0 0 35rem;
+}

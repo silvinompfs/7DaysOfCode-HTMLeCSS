@@ -2,6 +2,8 @@
 @import url("./style/cabecalho.css");
 @import url("./style/metrica.css");
 @import url("./style/vagas.css");
+@import url("./style/emprego.css");
+@import url("./style/depoimento.css");
 
 
 :root {
@@ -11,4 +13,6 @@
     --vermelho: #8E2424;
     --escuro: #101828;
     --redclaro: #8e242428;
+    --borda: #EAECF0;
+    --fundo: #c3191941;
 }
